@@ -34,14 +34,14 @@
 
 <h2 align="center">📊 GitHub Stats & Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[あなたのGitHubユーザー名]&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[あなたのGitHubユーザー名]&layout=compact&langs_count=8&theme=nord" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=en00-enoo&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=en00-enoo&layout=compact&langs_count=8&theme=nord" alt="Top Languages" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[あなたのGitHubユーザー名]&theme=nord&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=en00-enoo&theme=nord&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[あなたのGitHubユーザー名]&theme=nord" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=en00-enoo&theme=nord" alt="GitHub Streak Stats"/>
 </p>
 
 ---
